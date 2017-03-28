@@ -11,4 +11,5 @@ public class TeddyBear {
 	public void hug() {
 		System.out.println("A teddy bear is squished in a great big hug.");
 	}
+
 }
